@@ -26,7 +26,6 @@ function button_number (button){
     dot = document.getElementById("dot").value;
 
     last_button = button;
-
     
 }
 
